@@ -1,0 +1,67 @@
+
+body {
+    line-height: 1.8em;
+    margin: 0px 0px;
+    }
+header {
+    background-color: black;
+    color: white;
+    padding: 25px;
+    
+}
+
+header h1, p {
+    text-align: center;
+}
+
+main {
+    padding-top: 20px;
+    padding-bottom: 70px;
+}
+
+section.todos {
+    padding: 10px 0px 10px 10px;
+}
+
+#segundo {
+    padding-top: 20px ;
+    padding-bottom: 40px;
+    background-image: url(imagens/background001.jpg);
+    background-position: right center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+div.segundo { 
+    color: white;
+    background-color: rgba(0, 0, 0, 0.226);
+    width: 180px;
+    padding: 10px 0px 10px 10px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+#quarto {
+    padding-top: 20px ;
+    padding-bottom: 40px;
+    background-image: url(imagens/background002.jpg);
+    background-position: right center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+div.quarto {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.521);
+    width: 180px;
+    padding: 10px 0px 10px 10px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    margin-bottom: -17px;
+}
